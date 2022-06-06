@@ -19,10 +19,14 @@ p{
 
 h3{
     margin-left: 110px;
-    margin-right: 750px;
 }
 
 li{
+    margin-left: 110px;
+    margin-right: 750px;
+}
+
+a{
     margin-left: 110px;
     margin-right: 750px;
 }
